@@ -1,1 +1,1 @@
-# PetrimBR-alg-202601-lista5
+1- Criar um programa que leia uma palavra digitada pelo usuário e imprima invertido. Ex: abcd -> dcba
