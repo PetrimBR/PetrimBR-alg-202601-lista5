@@ -3,6 +3,8 @@
 #include <string.h>
 #include <locale.h>
 
+// Coloque ordeP para sair Pedro :)
+
 void inverterString(char original[], char invertida[], int n) {
     for (int i = 0; i < n; i++)
         invertida[i] = original[n - 1 - i];
